@@ -1,4 +1,8 @@
 <h1>Hi, I'm Mike B., an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<p>
+  Welcome to my page. My main focus is general IT administration, but I will be posting python automation projects as learn. 
+  Feel free to reach out and contribute if you see any ways to enhance the projects in my portfolio!
+</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
