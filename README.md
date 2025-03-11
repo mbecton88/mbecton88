@@ -13,6 +13,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mbecton88/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs Part 2](https://github.com/mbecton88/configure-ad2)
+  - [Secure Virtual Network and VM Deployment](https://github.com/mbecton88/venetworkdeployment)
+  
 - <b>IT Troubleshooting</b>
   - [General IT Troubleshooting](https://github.com/mbecton88/tshoot-lab)
   
